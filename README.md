@@ -1,5 +1,4 @@
 # SVM_Model
-Here is the **English version** of the README file based on your `HW3.ipynb`. You can save this content as `README.md`.
 
 ---
 
